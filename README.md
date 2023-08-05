@@ -1,5 +1,5 @@
 # Zuzu.Git.Hub.io
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Richiesta di eliminazione dati Instagram</title>
