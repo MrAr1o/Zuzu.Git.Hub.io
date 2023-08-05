@@ -2,7 +2,7 @@
 
 <html>
 <head>
-    <title>Richiesta di eliminazione dati Instagram</title>
+    <title>Request for Instagram data deletion</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -80,8 +80,8 @@
 </head>
 <body>
     <div class="container">
-        <h1>Richiesta di eliminazione dati Instagram</h1>
-        <p class="description">Questa pagina visualizza i ping inviati da Instagram quando qualcuno richiede la rimozione dei propri dati.</p>
+        <h1>Request for Instagram data deletion</h1>
+        <p class="description">This page displays pings sent by Instagram when someone requests removal of their data.</p>
         <div id="ping-data"></div>
     </div>
 
